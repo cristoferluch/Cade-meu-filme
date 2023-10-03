@@ -28,10 +28,10 @@ Para instalar e configurar o projeto, siga estas etapas:
 ## Layout
 
 <p align="center">
-   <img src="https://github.com/cristoferluch/assets/blob/main/cademeufilme-1.png" alt="#01" width="600">
+   <img src="https://github.com/cristoferluch/assets/blob/main/cademeufilme-1.png" alt="#01" width="800">
 </p>
 
 <p align="center">
-   <img src="https://github.com/cristoferluch/assets/blob/main/cademeufilme-2.png" alt="#02" width="600">
+   <img src="https://github.com/cristoferluch/assets/blob/main/cademeufilme-2.png" alt="#02" width="400">
 </p>
 
