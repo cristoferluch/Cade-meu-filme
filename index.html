@@ -4,17 +4,19 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cadê meu filme ?</title>
+    <title>Stream Finder</title>
     <link rel="stylesheet" href="./style.css">
 </head>
 <body>
 
     <div class="menu-busca">
-        <input type="text" placeholder="Qual o filme!" id="nomeFilme">
+        <input type="text" placeholder="Digite um filme!" id="nomeFilme">
         <input type="button" value="Buscar!" id="btnBuscar">
     </div>
  
-    <div class="filmes"></div>
+    <div class="filmes" style="display: none;"></div>
+
+    <div class="loading" style="display: none;"></div>
 
     <script src="./script.js"></script>
 </body>
