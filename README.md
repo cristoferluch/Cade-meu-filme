@@ -25,7 +25,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias e recursos:
 📜 Obtenha informações detalhadas sobre o filme, incluindo ano, elenco e sinopse.
 📺 Descubra em quais plataformas de streaming você pode assistir ao filme, economizando tempo e dinheiro.
 
-##
+## Demo
 Acesse o Stream Finder cliquando [aqui](https://cade-meu-filme.netlify.app/)
 
 ## Layout
