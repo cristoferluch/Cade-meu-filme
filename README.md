@@ -1,6 +1,6 @@
 # Stream Finder
 
-Bem-vindo ao MovieStreamSearch, a ferramenta definitiva para encontrar informações detalhadas sobre os filmes que você ama e descobrir onde assisti-los online! Com esta aplicação, você pode facilmente pesquisar por filmes, obtendo informações como o ano de lançamento, elenco, sinopse e, o mais importante, as plataformas de streaming disponíveis para transmitir o filme de sua escolha.
+Bem-vindo ao Stream Finder, a ferramenta definitiva para encontrar informações detalhadas sobre os filmes que você ama e descobrir onde assisti-los online! Com esta aplicação, você pode facilmente pesquisar por filmes, obtendo informações como o ano de lançamento, elenco, sinopse e, o mais importante, as plataformas de streaming disponíveis para transmitir o filme de sua escolha.
 
 ## Conteúdo
 
