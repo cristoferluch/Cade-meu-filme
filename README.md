@@ -6,7 +6,9 @@ Bem-vindo ao MovieStreamSearch, a ferramenta definitiva para encontrar informaç
 
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Principais recursos](#Principais-recursos)
+- [Demo](#demo)
 - [Layout](#layout)
+
 
 ## Tecnologias Utilizadas
 
@@ -19,11 +21,12 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias e recursos:
 
 ## Principais recursos:
 
-Para instalar e configurar o projeto, siga estas etapas:
-
 🔎 Pesquise filmes por título, diretor ou ator.
 📜 Obtenha informações detalhadas sobre o filme, incluindo ano, elenco e sinopse.
 📺 Descubra em quais plataformas de streaming você pode assistir ao filme, economizando tempo e dinheiro.
+
+##
+Acesse o Stream Finder cliquando [aqui](https://cade-meu-filme.netlify.app/)
 
 ## Layout
 
