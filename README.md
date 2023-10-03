@@ -31,12 +31,12 @@ Acesse o Stream Finder cliquando [aqui](https://cade-meu-filme.netlify.app/)
 ## Layout
 
 <p align="center">
-   <h1>Desktop</h1>
+   <h3 align="center">Desktop</h1>
    <img src="https://github.com/cristoferluch/assets/blob/main/cademeufilme-1.png" alt="#01" width="800">
 </p>
 
 <p align="center">
-   <h1>Mobile</h1>
+   <h3 align="center">Mobile</h1>
    <img src="https://github.com/cristoferluch/assets/blob/main/cademeufilme-2.png" alt="#02" width="400">
 </p>
 
